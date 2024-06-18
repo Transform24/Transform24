@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spiritual Self-Identity Coaching Program</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Spiritual Self-Identity Coaching Program</h1>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About the Program</h2>
+            <p>Welcome to the Spiritual Self-Identity Coaching Program! Our transformative program is designed to help you uncover your true self, cultivate inner peace, and achieve your highest potential.</p>
+            <p>The program is structured into three phases: Foundation, Growth, and Mastery. Each phase consists of multiple modules that include theoretical content, practical exercises, and self-reflection activities.</p>
+        </section>
+
+        <section id="phases">
+            <h2>Program Phases</h2>
+            <div class="phase">
+                <h3>Foundation Phase</h3>
+                <ul>
+                    <li><strong>Module 1: Self-Awareness</strong> - Mindfulness exercises, self-reflection journaling.</li>
+                    <li><strong>Module 2: Self-Exploration</strong> - Values clarification, life narrative exercise.</li>
+                    <li><strong>Module 3: Self-Understanding</strong> - Strengths assessment, EFT tapping sessions.</li>
+                </ul>
+            </div>
+            <div class="phase">
+                <h3>Growth Phase</h3>
+                <ul>
+                    <li><strong>Module 4: Self-Compassion</strong> - Self-compassion exercises, guided meditations.</li>
+                    <li><strong>Module 5: Self-Esteem</strong> - Positive affirmations, accomplishments journaling.</li>
+                    <li><strong>Module 6: Self-Worth</strong> - Intrinsic worth exercise, meditation.</li>
+                </ul>
+            </div>
+            <div class="phase">
+                <h3>Mastery Phase</h3>
+                <ul>
+                    <li><strong>Module 7: Self-Expression</strong> - Creative projects, public speaking exercises.</li>
+                    <li><strong>Module 8: Self-Actualization</strong> - Goal-setting exercises, personal mission statement.</li>
+                    <li><strong>Module 9: Self-Transcendence</strong> - Service projects, advanced spiritual practices.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="survey">
+            <h2>Self-Concept Discovery Survey</h2>
+            <p>We invite you to complete our Self-Concept Discovery Survey. Your responses will help us tailor the coaching program to meet your specific needs.</p>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfY6aKU4bEgCnN_v8N5gJr_f0DGFu8oPxFljH-g4zM4ZV3mAw/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </section>
+
+        <section id="enroll">
+            <h2>Enroll Now</h2>
+            <p>Join our Spiritual Self-Identity Coaching Program today and start your journey towards a more authentic, fulfilling life. Spaces are limited, so sign up now!</p>
+            <p><strong>Program Price:</strong> $1,500 for a 12-week comprehensive coaching program.</p>
+            <a href="mailto:info@yourcoachingbusiness.com?subject=Enrollment Inquiry" class="button">Enroll Now</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Spiritual Self-Identity Coaching Program. All rights reserved.</p>
+    </footer>
+</body>
+</html>
